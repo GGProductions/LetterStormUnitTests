@@ -1,4 +1,4 @@
-LetterStormTest
+LetterStormUnitTests
 ===============
 
 Unit testing project for LetterStorm
